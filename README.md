@@ -1,9 +1,9 @@
 
 
-![emily's header](https://media-exp1.licdn.com/dms/image/C5616AQHQjxhIrh3lQg/profile-displaybackgroundimage-shrink_350_1400/0/1605118373484?e=1611792000&v=beta&t=wpoSNGIr0gTULb5yl2Y-79jBwfR2jK8_iopf2IblwmU)**HELLO THERE! 👋**
-I'm Emily - an aspiring developer based in Ellesmere Port. 
+![emily's header](https://media-exp1.licdn.com/dms/image/C5616AQHQjxhIrh3lQg/profile-displaybackgroundimage-shrink_350_1400/0/1605118373484?e=1611792000&v=beta&t=wpoSNGIr0gTULb5yl2Y-79jBwfR2jK8_iopf2IblwmU)**HELLO THERE! 👋**  
+I'm Emily - an aspiring developer based in Ellesmere Port.   
 
-I'm new to coding and am currently working with Code Nation on their 12 week immersive MASTER CODING bootcamp. 👩🏻‍💻
+I'm new to coding and am currently working with Code Nation on their 12 week immersive MASTER CODING bootcamp. 👩🏻‍💻  
 
 So far I've learnt about:  
 ✨HTML   

@@ -25,7 +25,7 @@ Here you'll find everything I'm working on (scroll down to see a sneak peek of s
 ---
 
 
-<img align="left" src="/githubProfile/whateverTheFeather.gif" />
+<img align="left" height="200" src="/githubProfile/whateverTheFeather.gif" />
 <img align="right" src="/githubProfile/toadstagram.gif" />
 <img align="left" src="/githubProfile/PWGen.gif" />
 <img align="right" src="/githubProfile/cssAnimation.gif" />

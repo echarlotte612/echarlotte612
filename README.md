@@ -6,19 +6,13 @@ I'm Emily - an aspiring developer based in Ellesmere Port.
 
 I'm new to coding and am currently working with Code Nation on their 12 week immersive MASTER CODING bootcamp. 👩🏻‍💻
 
-So far I've learnt about:  
-✨HTML   
-✨CSS  
-✨ JavaScript  
-✨Node.js  
-✨React  
-✨Express and Express Handlebars  
-✨MySQL  
-✨MongoDB  
-✨Docker  
-✨Git  
-✨Software testing  
-✨Functional programming  
+|✨|HTML|✨|CSS|
+|--|--| 
+|✨|JavaScript|✨|Node.js|
+|✨|React.js|✨|Express & Handlebars|
+|✨|MySQL|✨|MongoDB|
+|✨|Docker|✨|Git|
+|✨|Software Testing|||
 
 
 Here you'll find everything I'm working on (scroll down to see a sneak peek of some projects I've done whilst on this course)

@@ -6,8 +6,9 @@ I'm Emily - an aspiring developer based in Ellesmere Port.
 
 I'm new to coding and am currently working with Code Nation on their 12 week immersive MASTER CODING bootcamp. 👩🏻‍💻
 
-|✨|HTML|✨|CSS|
+||Things I've Learned So Far||...|
 |--|--|--|--|
+|✨|HTML|✨|CSS|
 |✨|JavaScript|✨|Node.js|
 |✨|React.js|✨|Express & Handlebars|
 |✨|MySQL|✨|MongoDB|

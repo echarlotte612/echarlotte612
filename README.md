@@ -5,14 +5,14 @@
 
 I'm new to coding and am currently working with Code Nation on their 12 week immersive MASTER CODING bootcamp. 👩🏻‍💻
 
-||Things I've Learned So Far|||
-|--|--|--|--|
-||HTML||CSS|
-||JavaScript||Node.js|
-||React.js||Express & Handlebars|
-||MySQL||MongoDB|
-||Docker||Git|
-||Software Testing|||
+||Things I've Learned So Far|
+|--|--|
+|HTML|CSS|
+|JavaScript|Node.js|
+|React.js|Express & Handlebars|
+|MySQL|MongoDB|
+|Docker|Git|
+|Software Testing||
 
 
 Here you'll find everything I'm working on (scroll down to see a sneak peek of some projects I've done whilst on this course)

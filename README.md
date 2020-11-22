@@ -23,12 +23,14 @@ So far I've learnt about:
 
 Here you'll find everything I'm working on (scroll down to see a sneak peek of some projects I've done whilst on this course)
 ---
+
+<center>
 |[ℹ️](https://www.linkedin.com/in/emily-baldocke/)|More of me...|
 |--|--| 
 |[💬](https://www.linkedin.com/in/emily-baldocke/)|[Message me on LinkedIn](https://www.linkedin.com/in/emily-baldocke/)|
 |[🎨](https://www.instagram.com/shuffledart/)  |[Checkout my weird Instagram Page!](https://www.instagram.com/shuffledart/)|  
 |[👻](https://www.youtube.com/watch?v=xDKsd6JB0Ho)|[Hear my creepypasta narrations](https://www.youtube.com/watch?v=xDKsd6JB0Ho)|
-
+</center>
 ---
 
 <img align="left" height="300" src="/githubProfile/whateverTheFeather.gif" />

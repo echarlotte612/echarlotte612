@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="/githubProfile" width="1920" height="1080" />
+<img src="/githubProfile/whateverTheFeather.gif" />
 
 <!--
 **echarlotte612/echarlotte612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

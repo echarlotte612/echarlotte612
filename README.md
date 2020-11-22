@@ -20,7 +20,7 @@ So far I've learnt about:
 ✨Software testing  
 ✨Functional programming  
 
----
+
 Here you'll find everything I'm working on (scroll down to see a sneak peek of some projects I've done whilst on this course)
 ---
 

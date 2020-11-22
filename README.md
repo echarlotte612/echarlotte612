@@ -27,15 +27,12 @@ Here you'll find everything I'm working on (scroll down to see a sneak peek of s
 
 <img align="left" height="300" src="/githubProfile/whateverTheFeather.gif" />
 <img align="right" height="300" src="/githubProfile/toadstagram.gif" />
-<img align="left" src="/githubProfile/PWGen.gif" />
-<img align="right" src="/githubProfile/cssAnimation.gif" />
-<img align="left" src="/githubProfile/DiceGameDOM.gif" />
-<img align="right" src="/githubProfile/cashWithdrawl.gif" />
-<img align="left" src="/githubProfile/pumpy.gif" />
-<img align="right" src="/githubProfile/netflixReact.gif" />
-<img align="left" src="/githubProfile/tictactoe.gif" />
-<img align="right" src="/githubProfile/carDealsReact.gif" />
-<img align="left" src="/githubProfile/bbcNews.gif" />
+<img align="left" height="300" src="/githubProfile/PWGen.gif" />
+<img align="right" height="300" src="/githubProfile/cssAnimation.gif" />
+<img align="left" height="300" src="/githubProfile/DiceGameDOM.gif" />
+<img align="right" height="300" src="/githubProfile/cashWithdrawl.gif" />
+<img align="left" height="300" src="/githubProfile/pumpy.gif" />
+<img align="right" height="300" src="/githubProfile/netflixReact.gif" />
 
 
 

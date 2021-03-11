@@ -1,9 +1,9 @@
 
 
-![emily's header](https://media-exp1.licdn.com/dms/image/C5616AQHQjxhIrh3lQg/profile-displaybackgroundimage-shrink_350_1400/0/1605118373484?e=1611792000&v=beta&t=wpoSNGIr0gTULb5yl2Y-79jBwfR2jK8_iopf2IblwmU)**HELLO THERE! 👋**  
+**HELLO THERE! 👋**  
 ---
 
-I'm new to coding and am currently working with Code Nation on their 12 week immersive MASTER CODING bootcamp. 👩🏻‍💻
+I'm new to coding and am currently working with Bentley as a Higher Apprentice Software Developer. 👩🏻‍💻
 
 |Things I've Learned So Far||
 |--|--|
@@ -15,7 +15,7 @@ I'm new to coding and am currently working with Code Nation on their 12 week imm
 |Software Testing||
 
 
-Here you'll find everything I'm working on (scroll down to see a sneak peek of some projects I've done whilst on this course)
+Here you'll find everything I'm working on (scroll down to see a sneak peek of some personal projects I've done so far)
 ---
 
 |[ℹ️](https://www.linkedin.com/in/emily-baldocke/)|More of me...|

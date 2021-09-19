@@ -3,7 +3,7 @@
 **HELLO THERE! 👋**  
 ---
 
-I'm new to coding and am currently working with Bentley as a Higher Apprentice Software Developer. 👩🏻‍💻
+I'm currently working with Bentley as a Higher Apprentice Software Developer. 👩🏻‍💻
 
 |Things I've Learned So Far||
 |--|--|
@@ -25,8 +25,8 @@ Here you'll find everything I'm working on (scroll down to see a sneak peek of s
 |[👻](https://www.youtube.com/watch?v=xDKsd6JB0Ho)|[Hear my creepypasta narrations](https://www.youtube.com/watch?v=xDKsd6JB0Ho)|
 
 ---
-
-<img align="left" height="300" src="/githubProfile/whateverTheFeather.gif" />
+<img align="right" height="500" src="https://github.com/echarlotte612/React-Readability-Calculator/blob/main/public/Readability-calc.gif" />
+<img align="left" height="400" src="/githubProfile/whateverTheFeather.gif" />
 <img align="right" height="300" src="/githubProfile/toadstagram.gif" />
 <img align="left" height="300" src="/githubProfile/PWGen.gif" />
 <img align="right" height="300" src="/githubProfile/cssAnimation.gif" />

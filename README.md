@@ -12,7 +12,7 @@ I'm currently working with Bentley as a Higher Apprentice Software Developer. ðŸ
 |React.js|Express & Handlebars|
 |MySQL|MongoDB|
 |Docker|Git|
-|Software Testing||
+|Software Testing|Outsystems Platform|
 
 
 Here you'll find everything I'm working on (scroll down to see a sneak peek of some personal projects I've done so far)
